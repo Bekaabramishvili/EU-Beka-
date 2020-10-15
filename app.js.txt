@@ -1,0 +1,11 @@
+function Laboratoriuli3-1.html(){
+    
+     x=JavaScript is the world's most pOpULar programming language.;
+    
+     document.write(x.indexOf(popular));
+    
+     document.write(br);
+   
+     if(x.match(new RegExp(popular,gi))!=
+     document.write();
+}
